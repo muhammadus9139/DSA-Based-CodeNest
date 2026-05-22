@@ -1,4 +1,4 @@
-CodeNest
+##CodeNest
 
 CodeNest is a JavaFX-based mini GitHub clone and AI Copilot-powered development platform built using Java and Data Structures & Algorithms concepts. It simulates core GitHub functionalities along with an integrated AI assistant for code review and suggestions using the Groq API.
 
